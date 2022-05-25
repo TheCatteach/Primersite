@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: brown;
+}
+
+header{
+    background-color: aqua;
+}
+
+div {
+    background-color: blue;
+}
+
+h1 {
+    background-color: blueviolet;
+}
+
+footer {
+    color: white;
+    background-color: black;
+}
